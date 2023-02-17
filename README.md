@@ -1,7 +1,7 @@
 ----
 # Projectdocumentation
 ----
-![ErrorFailGIF](https://user-images.githubusercontent.com/40143278/219646198-8537188d-2ea0-4066-bc70-f5f2dfdda80f.gif)
+![PaperGIF (2)](https://user-images.githubusercontent.com/40143278/219647047-5af0e1f5-8470-4d60-9af9-0c98d143f2bc.gif)
 ----
 #### Documentation for all Repos, Word and Excel Files.
 #### For all my Repos I' use Word and Excel Documentation for better Views.
@@ -10,4 +10,7 @@
 #### All you can downloads for use them,
 #### but all Copyrights © by Christian 'Tipplin' Kurs,
 #### without Permission from me, COPY OR MODIFY OR OTHERS is NOT allowed !!!.
+----
+#### Notice:
+#### Microsoft Word and Microsoft Excel Copyright and Trademarks © 1982-2023 by Microsoft Corporation.
 ----
