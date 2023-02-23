@@ -15,10 +15,10 @@
 #### For Interest:
 ----
 #### Any Word-Documents, Excel-Documents in an VGF-Community Order for use
-#### in our Projects as Project-Sheets.
+#### in our Projects as Project-Sheets for VGF-Community Members us be free.
 #### Have only Idea or find an mistake send an Mail to me:
 ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
-kurschristian@gmail.com
+#### kurschristian@gmail.com
 ----
 #### Notice:
 #### Microsoft Word and Microsoft Excel Copyright and Trademarks © 1982-2023 by Microsoft Corporation.
