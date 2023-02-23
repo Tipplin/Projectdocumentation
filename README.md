@@ -7,8 +7,9 @@
 #### For all my Repos I' use Word and Excel Documentation for better Views.
 #### Word Files for Description and Projectsheets for better work.
 #### So I' have create many Documents for better Development.
-#### For see the first time click on TP. Documentname,
-#### than View raw, so he show the document with assist on screen.
+----
+#### For see the first time click on TP.Documentname,
+#### than click on view raw, so he show the document with assist on screen.
 ----
 #### All you can downloads for use them,
 #### but all Copyrights © by Christian 'Tipplin' Kurs,
