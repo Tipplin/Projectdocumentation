@@ -10,6 +10,15 @@
 #### All you can downloads for use them,
 #### but all Copyrights © by Christian 'Tipplin' Kurs,
 #### without Permission from me, COPY OR MODIFY OR OTHERS is NOT allowed !!!.
+#### All Documents can be changed at later Time.
+----
+#### For Interest:
+----
+#### Any Word-Documents, Excel-Documents in an VGF-Community Order for use
+#### in our Projects as Project-Sheets.
+#### Have only Idea or find an mistake send an Mail to me:
+![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
+kurschristian@gmail.com
 ----
 #### Notice:
 #### Microsoft Word and Microsoft Excel Copyright and Trademarks © 1982-2023 by Microsoft Corporation.
